@@ -82,7 +82,3 @@ This project consists of three tasks:
 - **Lookalike Model**: 30%
 - **Customer Segmentation**: 30%
 - **Business Insights**: 15%
-
-## Contact
-For any questions or clarifications, feel free to contact:  
-**Darshan Shet** 
