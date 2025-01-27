@@ -68,14 +68,14 @@ This project consists of three tasks:
 
 ## Files
 - **Task 1**:
-  - `FirstName_LastName_EDA.ipynb`
-  - `FirstName_LastName_EDA.pdf`
+  - `Darshan_Shet_EDA.ipynb`
+  - `Darshan_Shet_EDA.pdf`
 - **Task 2**:
-  - `FirstName_LastName_Lookalike.ipynb`
-  - `FirstName_LastName_Lookalike.csv`
+  - `Darshan_Shet_Lookalike.ipynb`
+  - `Darshan_Shet_Lookalike.csv`
 - **Task 3**:
-  - `FirstName_LastName_Clustering.ipynb`
-  - `FirstName_LastName_Clustering.pdf`
+  - `Darshan_Shet_Clustering.ipynb`
+  - `Darshan_Shet_Clustering.pdf`
 
 ## Evaluation Criteria
 - **EDA and Business Insights**: 25%
@@ -83,11 +83,6 @@ This project consists of three tasks:
 - **Customer Segmentation**: 30%
 - **Business Insights**: 15%
 
-## GitHub Submission
-All files have been uploaded to a public GitHub repository. Ensure proper file naming conventions:
-- `FirstName_LastName_*`
-
 ## Contact
 For any questions or clarifications, feel free to contact:  
-**Your Name**  
-**Your Email Address**
+**Darshan Shet** 
