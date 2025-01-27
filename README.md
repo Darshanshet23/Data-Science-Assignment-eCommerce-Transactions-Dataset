@@ -1,7 +1,5 @@
 # Data-Science-Assignment-eCommerce-Transactions-Dataset
 
-# eCommerce Transactions Dataset Analysis
-
 ## Overview
 This project analyzes an eCommerce dataset containing customer, product, and transaction data. It involves performing exploratory data analysis (EDA), building a lookalike model to recommend similar customers, and performing customer segmentation using clustering techniques.
 
